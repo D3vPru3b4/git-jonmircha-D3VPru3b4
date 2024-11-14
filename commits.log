@@ -1,0 +1,98 @@
+commit 8efe82ead8212f7a52e5acb11725fad119ee03b7
+Author: JoelNieto90 <joenieto90@hotmail.com>
+Date:   Wed Nov 13 20:47:24 2024 -0600
+
+    Agregando dos parrafos
+
+commit e4b13487107a77162a551fa2b01dc4236e33067a
+Merge: 0e70415 fa70074
+Author: JoelNieto90 <joenieto90@hotmail.com>
+Date:   Wed Nov 13 20:43:09 2024 -0600
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 0e70415b347e875f04920d259d21bbde1bb46d3b
+Author: JoelNieto90 <joenieto90@hotmail.com>
+Date:   Wed Nov 13 20:25:12 2024 -0600
+
+    Agregando estaciones del año con fecha de inicio
+
+commit fa70074fee9a151cace0ba09308fc95528cf6bb3
+Author: JoelNieto90 <joenieto90@hotmail.com>
+Date:   Wed Nov 13 20:25:12 2024 -0600
+
+    Agregando estaciones del año
+
+commit f26bc21ff5d049506e6f86321e528ac6f246f5e5
+Merge: 2f4ba71 4584ad3
+Author: JoelNieto90 <joenieto90@hotmail.com>
+Date:   Wed Nov 13 20:19:43 2024 -0600
+
+    Resolviendo conlfitoc merge main/html en el documento index.html
+
+commit 4584ad393a93d79de34f29c1cba33e7ad26a45c8
+Author: JoelNieto90 <joenieto90@hotmail.com>
+Date:   Wed Nov 13 20:13:35 2024 -0600
+
+    Agregando index.js al index.html
+
+commit 2f4ba712c3de3270897aaa0f2f181b9745aac289
+Author: JoelNieto90 <joenieto90@hotmail.com>
+Date:   Wed Nov 13 20:11:56 2024 -0600
+
+    Agregando style.css al index.html
+
+commit 82d9f8ed253db9060dbfede98ff3a03d33e2ccb2
+Merge: 16a05ea c0db5ed
+Author: JoelNieto90 <joenieto90@hotmail.com>
+Date:   Wed Nov 13 20:00:12 2024 -0600
+
+    Merge branch 'js'
+
+commit c0db5ed73fd2d21534c7093f79998662e641abfc
+Author: JoelNieto90 <joenieto90@hotmail.com>
+Date:   Wed Nov 13 10:26:23 2024 -0600
+
+    Creando JS
+
+commit 16a05ea4125c2c6560cb529391367aa8beb7a648
+Author: JoelNieto90 <joenieto90@hotmail.com>
+Date:   Wed Nov 13 10:20:45 2024 -0600
+
+    Creando style.css
+
+commit 605f4960c09b5818c952c32bf26285b12e942768
+Author: JoelNieto90 <joenieto90@hotmail.com>
+Date:   Wed Nov 13 10:17:10 2024 -0600
+
+    Creando archivo index.html
+
+commit 0b66e3fd39cfc033d52e07b4b7129c6debdf0fb3
+Author: JoelNieto90 <joenieto90@hotmail.com>
+Date:   Wed Nov 13 09:10:59 2024 -0600
+
+    Ignorando archivos .exe
+
+commit 10dcdc60989b62dbf4a54f850cb34dde28de68bf
+Author: Joel Nieto <joenieto90@hotmail.com>
+Date:   Wed Nov 13 08:50:10 2024 -0600
+
+    Create LICENSE
+
+commit c9ea842db789d66393e2822742cb89c65a09a9e7
+Author: JoelNieto90 <joenieto90@hotmail.com>
+Date:   Wed Nov 13 08:46:35 2024 -0600
+
+    Agregar mas contenido al README
+
+commit 345e1b3bfe68411912444557d2b15566169dfc43
+Author: JoelNieto90 <joenieto90@hotmail.com>
+Date:   Tue Nov 12 13:19:08 2024 -0600
+
+    Agregando contenido inicial al README
+
+commit d9b1802355d67c3b8b84c27a5441d9f5be403e6a
+Author: JoelNieto90 <joenieto90@hotmail.com>
+Date:   Tue Nov 12 13:11:28 2024 -0600
+
+    Primer commit
