@@ -2,4 +2,4 @@
 
 Hola!
 
-Agregando mas contenido al _README.md_
+Domina el uso de _git_
